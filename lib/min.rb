@@ -10,4 +10,6 @@ require 'pry'
 
 def get_the_min(groceries)
   #code your solution here!
+  min_a = groceries.values.min
+  min_a.min
 end
